@@ -16,7 +16,7 @@
 Использовать следующие технологии: 
 * Python 3.9;
 * Django 2.2.10;
-* Django REST framework;
+* Django REST framework 3.1.0;
 * drf-yasg 1.20.0;
 
 
