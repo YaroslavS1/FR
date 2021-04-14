@@ -43,7 +43,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 * Приложение будет доступно по адресу: http://127.0.0.1:8000/api/
-### Документация API 
+# Документация API 
 (автодокументирование на swagger (drf-yasg) доступно по адресу http://127.0.0.1:8000/swagger/ )
 
 ### Чтобы получить токен пользователя: 
